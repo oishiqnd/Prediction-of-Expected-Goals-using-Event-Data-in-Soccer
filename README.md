@@ -1,4 +1,8 @@
 
+## Demo
+
+![](https://statsbomb.com/wp-content/uploads/2022/02/ricardo-3.gif)
+
 
 # Football xG Analysis: Beyond the Scoreline
 
@@ -13,7 +17,3 @@ Our goals for this project include:
 - Implementing an xG model that takes into account various factors influencing a shot's chance of becoming a goal.
 - Providing a more objective, data-driven evaluation of football team performances.
 - Applying our xG model to analyze individual matches, series of games, entire seasons, and manager tenures.
-
-## Demo
-
-https://statsbomb.com/wp-content/uploads/2022/02/ricardo-3.gif
